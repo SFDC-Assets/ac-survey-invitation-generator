@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "DemoSurveyLinkGenerator",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "surveys_demo",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "51.0",
+    "packageAliases": {
+        "DemoSurveyLinkGenerator": "0Ho5e000000oM2cCAE",
+        "DemoSurveyLinkGenerator@0.1.0-1": "04t5e0000005htQAAQ"
+    }
+}
